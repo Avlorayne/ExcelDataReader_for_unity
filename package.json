@@ -1,0 +1,16 @@
+﻿{
+  "name": "com.dotline.exceldatareader",
+  "displayName": "ExcelDataReader",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "ExcelDataReader 3.9.0 library packaged for Unity.",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "excel",
+    "data"
+  ],
+  "author": {
+    "name": "Dotline(origin: ExcelDataReader)"
+  }
+}
